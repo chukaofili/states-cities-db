@@ -23,6 +23,24 @@ var sc = require('state-cities-db');
 ```javascript
 // Get all countries
 var countries = sc.getCountries();
+
+//Sample response
+[ { name: 'Afghanistan',
+    slug: 'afghanistan',
+    iso: 'AFG',
+    prefix: '+93',
+    currency: 'AFN',
+    region: 'Asia',
+    subregion: 'Southern Asia',
+    latlng: [ 33, 65 ] },
+  { name: 'Albania',
+    slug: 'albania',
+    iso: 'ALB',
+    prefix: '+355',
+    currency: 'ALL',
+    region: 'Europe',
+    subregion: 'Southern Europe',
+    latlng: [ 41, 20 ] }]
 ```
 
 ### Get states
