@@ -50,7 +50,6 @@ console.log(countries);
 ```javascript
 // Get all states by passing the country slug.
 var states = sc.getStates('nigeria'); 
-> Note: You can get the country slug from the getCountries() method.
 
 //Sample response
 console.log(states);
@@ -88,13 +87,13 @@ console.log(filteredStates);
     stateSlug: 'taraba',
     country: 'nigeria' } ]
 ```
+> Note: You can get the country slug from the getCountries() method.
 
 ### Get cities
 
 ```javascript
 // Get all cities by passing the state slug.
 var cities = sc.getCities('nigeria_lagos'); 
-> Note: You can get the state slug from the getStates() method.
 
 //Sample response
 console.log(cities);
@@ -127,3 +126,4 @@ console.log(filteredCities);
     citySlug: 'ikeja',
     state: 'nigeria_lagos',} ]
 ```
+> Note: You can get the state slug from the getStates() method.
