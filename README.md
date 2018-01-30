@@ -5,10 +5,14 @@ Get a list of countries, or give it a country & get a list of states, or give it
 ## Install it
 
 ### NPM
+```javascript
 $ npm install state-cities-db --save
+```
 
 ### Yarn
+```javascript
 $ yarn add state-cities-db
+```
 
 ## Add it
 
