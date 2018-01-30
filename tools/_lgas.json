@@ -1,0 +1,3872 @@
+[
+		{
+        "id": 1,
+        "state_id": 1,
+        "name": "ABA NORTH"
+    },
+    {
+        "id": 2,
+        "state_id": 1,
+        "name": "ABA SOUTH"
+    },
+    {
+        "id": 3,
+        "state_id": 1,
+        "name": "AROCHUKWU"
+    },
+    {
+        "id": 4,
+        "state_id": 1,
+        "name": "BENDE"
+    },
+    {
+        "id": 5,
+        "state_id": 1,
+        "name": "IKWUANO"
+    },
+    {
+        "id": 6,
+        "state_id": 1,
+        "name": "ISIALA NGWA NORTH"
+    },
+    {
+        "id": 7,
+        "state_id": 1,
+        "name": "ISIALA NGWA SOUTH"
+    },
+    {
+        "id": 8,
+        "state_id": 1,
+        "name": "ISUIKWUATO"
+    },
+    {
+        "id": 9,
+        "state_id": 1,
+        "name": "OBINGWA"
+    },
+    {
+        "id": 10,
+        "state_id": 1,
+        "name": "OHAFIA"
+    },
+    {
+        "id": 11,
+        "state_id": 1,
+        "name": "OSISIOMA"
+    },
+    {
+        "id": 12,
+        "state_id": 1,
+        "name": "UGWUNAGBO"
+    },
+    {
+        "id": 13,
+        "state_id": 1,
+        "name": "UKWA EAST"
+    },
+    {
+        "id": 14,
+        "state_id": 1,
+        "name": "UKWA  WEST"
+    },
+    {
+        "id": 15,
+        "state_id": 1,
+        "name": "UMUAHIA NORTH"
+    },
+    {
+        "id": 16,
+        "state_id": 1,
+        "name": "UMUAHIA  SOUTH"
+    },
+    {
+        "id": 17,
+        "state_id": 1,
+        "name": "UMU - NNEOCHI"
+    },
+    {
+        "id": 18,
+        "state_id": 2,
+        "name": "DEMSA"
+    },
+    {
+        "id": 19,
+        "state_id": 2,
+        "name": "FUFORE"
+    },
+    {
+        "id": 20,
+        "state_id": 2,
+        "name": "GANYE"
+    },
+    {
+        "id": 21,
+        "state_id": 2,
+        "name": "GIRE 1"
+    },
+    {
+        "id": 22,
+        "state_id": 2,
+        "name": "GOMBI"
+    },
+    {
+        "id": 23,
+        "state_id": 2,
+        "name": "GUYUK"
+    },
+    {
+        "id": 24,
+        "state_id": 2,
+        "name": "HONG"
+    },
+    {
+        "id": 25,
+        "state_id": 2,
+        "name": "JADA"
+    },
+    {
+        "id": 26,
+        "state_id": 2,
+        "name": "LAMURDE"
+    },
+    {
+        "id": 27,
+        "state_id": 2,
+        "name": "MADAGALI"
+    },
+    {
+        "id": 28,
+        "state_id": 2,
+        "name": "MAIHA"
+    },
+    {
+        "id": 29,
+        "state_id": 2,
+        "name": "MAYO - BELWA"
+    },
+    {
+        "id": 30,
+        "state_id": 2,
+        "name": "MICHIKA"
+    },
+    {
+        "id": 31,
+        "state_id": 2,
+        "name": "MUBI NORTH"
+    },
+    {
+        "id": 32,
+        "state_id": 2,
+        "name": "MUBI SOUTH"
+    },
+    {
+        "id": 33,
+        "state_id": 2,
+        "name": "NUMAN"
+    },
+    {
+        "id": 34,
+        "state_id": 2,
+        "name": "SHELLENG"
+    },
+    {
+        "id": 35,
+        "state_id": 2,
+        "name": "SONG"
+    },
+    {
+        "id": 36,
+        "state_id": 2,
+        "name": "TOUNGO"
+    },
+    {
+        "id": 37,
+        "state_id": 2,
+        "name": "YOLA NORTH"
+    },
+    {
+        "id": 38,
+        "state_id": 2,
+        "name": "YOLA SOUTH"
+    },
+    {
+        "id": 39,
+        "state_id": 3,
+        "name": "ABAK"
+    },
+    {
+        "id": 40,
+        "state_id": 3,
+        "name": "EASTERN OBOLO"
+    },
+    {
+        "id": 41,
+        "state_id": 3,
+        "name": "EKET"
+    },
+    {
+        "id": 42,
+        "state_id": 3,
+        "name": "ESIT EKET (UQUO)"
+    },
+    {
+        "id": 43,
+        "state_id": 3,
+        "name": "ESSIEN UDIM"
+    },
+    {
+        "id": 44,
+        "state_id": 3,
+        "name": "ETIM EKPO"
+    },
+    {
+        "id": 45,
+        "state_id": 3,
+        "name": "ETINAN"
+    },
+    {
+        "id": 46,
+        "state_id": 3,
+        "name": "IBENO"
+    },
+    {
+        "id": 47,
+        "state_id": 3,
+        "name": "IBESIKPO ASUTAN"
+    },
+    {
+        "id": 48,
+        "state_id": 3,
+        "name": "IBIONO IBOM"
+    },
+    {
+        "id": 49,
+        "state_id": 3,
+        "name": "IKA"
+    },
+    {
+        "id": 50,
+        "state_id": 3,
+        "name": "IKONO"
+    },
+    {
+        "id": 51,
+        "state_id": 3,
+        "name": "IKOT ABASI"
+    },
+    {
+        "id": 52,
+        "state_id": 3,
+        "name": "IKOT EKPENE"
+    },
+    {
+        "id": 53,
+        "state_id": 3,
+        "name": "INI"
+    },
+    {
+        "id": 54,
+        "state_id": 3,
+        "name": "ITU"
+    },
+    {
+        "id": 55,
+        "state_id": 3,
+        "name": "MBO"
+    },
+    {
+        "id": 56,
+        "state_id": 3,
+        "name": "MKPAT ENIN"
+    },
+    {
+        "id": 57,
+        "state_id": 3,
+        "name": "NSIT ATAI"
+    },
+    {
+        "id": 58,
+        "state_id": 3,
+        "name": "NSIT IBOM"
+    },
+    {
+        "id": 59,
+        "state_id": 3,
+        "name": "NSIT UBIUM"
+    },
+    {
+        "id": 60,
+        "state_id": 3,
+        "name": "OBOT AKARA"
+    },
+    {
+        "id": 61,
+        "state_id": 3,
+        "name": "OKOBO"
+    },
+    {
+        "id": 62,
+        "state_id": 3,
+        "name": "ONNA"
+    },
+    {
+        "id": 63,
+        "state_id": 3,
+        "name": "ORON"
+    },
+    {
+        "id": 64,
+        "state_id": 3,
+        "name": "ORUK ANAM"
+    },
+    {
+        "id": 65,
+        "state_id": 3,
+        "name": "UDUNG UKO"
+    },
+    {
+        "id": 66,
+        "state_id": 3,
+        "name": "UKANAFUN"
+    },
+    {
+        "id": 67,
+        "state_id": 3,
+        "name": "URUAN"
+    },
+    {
+        "id": 68,
+        "state_id": 3,
+        "name": "URUE OFFONG/ORUKO"
+    },
+    {
+        "id": 69,
+        "state_id": 3,
+        "name": "UYO"
+    },
+    {
+        "id": 70,
+        "state_id": 4,
+        "name": "AGUATA"
+    },
+    {
+        "id": 71,
+        "state_id": 4,
+        "name": "AYAMELUM"
+    },
+    {
+        "id": 72,
+        "state_id": 4,
+        "name": "ANAMBRA EAST"
+    },
+    {
+        "id": 73,
+        "state_id": 4,
+        "name": "ANAMBRA WEST"
+    },
+    {
+        "id": 74,
+        "state_id": 4,
+        "name": "ANAOCHA"
+    },
+    {
+        "id": 75,
+        "state_id": 4,
+        "name": "AWKA NORTH"
+    },
+    {
+        "id": 76,
+        "state_id": 4,
+        "name": "AWKA SOUTH"
+    },
+    {
+        "id": 77,
+        "state_id": 4,
+        "name": "DUNUKOFIA"
+    },
+    {
+        "id": 78,
+        "state_id": 4,
+        "name": "EKWUSIGO"
+    },
+    {
+        "id": 79,
+        "state_id": 4,
+        "name": "IDEMILI NORTH"
+    },
+    {
+        "id": 80,
+        "state_id": 4,
+        "name": "IDEMILI-SOUTH"
+    },
+    {
+        "id": 81,
+        "state_id": 4,
+        "name": "IHALA"
+    },
+    {
+        "id": 82,
+        "state_id": 4,
+        "name": "NJIKOKA"
+    },
+    {
+        "id": 83,
+        "state_id": 4,
+        "name": "NNEWI NORTH"
+    },
+    {
+        "id": 84,
+        "state_id": 4,
+        "name": "NNEWI SOUTH"
+    },
+    {
+        "id": 85,
+        "state_id": 4,
+        "name": "OGBARU"
+    },
+    {
+        "id": 86,
+        "state_id": 4,
+        "name": "ONITSHA-NORTH"
+    },
+    {
+        "id": 87,
+        "state_id": 4,
+        "name": "ONITSHA -SOUTH"
+    },
+    {
+        "id": 88,
+        "state_id": 4,
+        "name": "ORUMBA NORTH"
+    },
+    {
+        "id": 89,
+        "state_id": 4,
+        "name": "ORUMBA  SOUTH"
+    },
+    {
+        "id": 90,
+        "state_id": 4,
+        "name": "OYI"
+    },
+    {
+        "id": 91,
+        "state_id": 5,
+        "name": "ALKALERI"
+    },
+    {
+        "id": 92,
+        "state_id": 5,
+        "name": "BAUCHI"
+    },
+    {
+        "id": 93,
+        "state_id": 5,
+        "name": "BOGORO"
+    },
+    {
+        "id": 94,
+        "state_id": 5,
+        "name": "DAMBAM"
+    },
+    {
+        "id": 95,
+        "state_id": 5,
+        "name": "DARAZO"
+    },
+    {
+        "id": 96,
+        "state_id": 5,
+        "name": "DASS"
+    },
+    {
+        "id": 97,
+        "state_id": 5,
+        "name": "GAMAWA"
+    },
+    {
+        "id": 98,
+        "state_id": 5,
+        "name": "GANJUWA"
+    },
+    {
+        "id": 99,
+        "state_id": 5,
+        "name": "GIADE"
+    },
+    {
+        "id": 100,
+        "state_id": 5,
+        "name": "ITAS/GADAU"
+    },
+    {
+        "id": 101,
+        "state_id": 5,
+        "name": "JAMA'ARE"
+    },
+    {
+        "id": 102,
+        "state_id": 5,
+        "name": "KATAGUM"
+    },
+    {
+        "id": 103,
+        "state_id": 5,
+        "name": "KIRFI"
+    },
+    {
+        "id": 104,
+        "state_id": 5,
+        "name": "MISAU"
+    },
+    {
+        "id": 105,
+        "state_id": 5,
+        "name": "NINGI"
+    },
+    {
+        "id": 106,
+        "state_id": 5,
+        "name": "SHIRA"
+    },
+    {
+        "id": 107,
+        "state_id": 5,
+        "name": "TAFAWA BALEWA"
+    },
+    {
+        "id": 108,
+        "state_id": 5,
+        "name": "TORO"
+    },
+    {
+        "id": 109,
+        "state_id": 5,
+        "name": "WARJI"
+    },
+    {
+        "id": 110,
+        "state_id": 5,
+        "name": "ZAKI"
+    },
+    {
+        "id": 111,
+        "state_id": 6,
+        "name": "BRASS"
+    },
+    {
+        "id": 112,
+        "state_id": 6,
+        "name": "EKEREMOR"
+    },
+    {
+        "id": 113,
+        "state_id": 6,
+        "name": "KOLOKUMA/OPOKUMA"
+    },
+    {
+        "id": 114,
+        "state_id": 6,
+        "name": "NEMBE"
+    },
+    {
+        "id": 115,
+        "state_id": 6,
+        "name": "OGBIA"
+    },
+    {
+        "id": 116,
+        "state_id": 6,
+        "name": "SAGBAMA"
+    },
+    {
+        "id": 117,
+        "state_id": 6,
+        "name": "SOUTHERN IJAW"
+    },
+    {
+        "id": 118,
+        "state_id": 6,
+        "name": "YENAGOA"
+    },
+    {
+        "id": 119,
+        "state_id": 7,
+        "name": "ADO"
+    },
+    {
+        "id": 120,
+        "state_id": 7,
+        "name": "AGATU"
+    },
+    {
+        "id": 121,
+        "state_id": 7,
+        "name": "APA"
+    },
+    {
+        "id": 122,
+        "state_id": 7,
+        "name": "BURUKU"
+    },
+    {
+        "id": 123,
+        "state_id": 7,
+        "name": "GBOKO"
+    },
+    {
+        "id": 124,
+        "state_id": 7,
+        "name": "GUMA"
+    },
+    {
+        "id": 125,
+        "state_id": 7,
+        "name": "GWER EAST"
+    },
+    {
+        "id": 126,
+        "state_id": 7,
+        "name": "GWER WEST"
+    },
+    {
+        "id": 127,
+        "state_id": 7,
+        "name": "KATSINA-ALA"
+    },
+    {
+        "id": 128,
+        "state_id": 7,
+        "name": "KONSHISHA"
+    },
+    {
+        "id": 129,
+        "state_id": 7,
+        "name": "KWANDE"
+    },
+    {
+        "id": 130,
+        "state_id": 7,
+        "name": "LOGO"
+    },
+    {
+        "id": 131,
+        "state_id": 7,
+        "name": "MAKURDI"
+    },
+    {
+        "id": 132,
+        "state_id": 7,
+        "name": "OBI"
+    },
+    {
+        "id": 133,
+        "state_id": 7,
+        "name": "OGBADIBO"
+    },
+    {
+        "id": 134,
+        "state_id": 7,
+        "name": "OJU"
+    },
+    {
+        "id": 135,
+        "state_id": 7,
+        "name": "OHIMINI"
+    },
+    {
+        "id": 136,
+        "state_id": 7,
+        "name": "OKPOKWU"
+    },
+    {
+        "id": 137,
+        "state_id": 7,
+        "name": "OTUKPO"
+    },
+    {
+        "id": 138,
+        "state_id": 7,
+        "name": "TARKA"
+    },
+    {
+        "id": 139,
+        "state_id": 7,
+        "name": "UKUM"
+    },
+    {
+        "id": 140,
+        "state_id": 7,
+        "name": "USHONGO"
+    },
+    {
+        "id": 141,
+        "state_id": 7,
+        "name": "VANDEIKYA"
+    },
+    {
+        "id": 142,
+        "state_id": 8,
+        "name": "ABADAM"
+    },
+    {
+        "id": 143,
+        "state_id": 8,
+        "name": "ASKIRA / UBA"
+    },
+    {
+        "id": 144,
+        "state_id": 8,
+        "name": "BAMA"
+    },
+    {
+        "id": 145,
+        "state_id": 8,
+        "name": "BAYO"
+    },
+    {
+        "id": 146,
+        "state_id": 8,
+        "name": "BIU"
+    },
+    {
+        "id": 147,
+        "state_id": 8,
+        "name": "CHIBOK"
+    },
+    {
+        "id": 148,
+        "state_id": 8,
+        "name": "DAMBOA"
+    },
+    {
+        "id": 149,
+        "state_id": 8,
+        "name": "DIKWA"
+    },
+    {
+        "id": 150,
+        "state_id": 8,
+        "name": "GUBIO"
+    },
+    {
+        "id": 151,
+        "state_id": 8,
+        "name": "GUZAMALA"
+    },
+    {
+        "id": 152,
+        "state_id": 8,
+        "name": "GWOZA"
+    },
+    {
+        "id": 153,
+        "state_id": 8,
+        "name": "HAWUL"
+    },
+    {
+        "id": 154,
+        "state_id": 8,
+        "name": "JERE"
+    },
+    {
+        "id": 155,
+        "state_id": 8,
+        "name": "KAGA"
+    },
+    {
+        "id": 156,
+        "state_id": 8,
+        "name": "KALA BALGE"
+    },
+    {
+        "id": 157,
+        "state_id": 8,
+        "name": "KONDUGA"
+    },
+    {
+        "id": 158,
+        "state_id": 8,
+        "name": "KUKAWA"
+    },
+    {
+        "id": 159,
+        "state_id": 8,
+        "name": "KWAYA / KUSAR"
+    },
+    {
+        "id": 160,
+        "state_id": 8,
+        "name": "MAFA"
+    },
+    {
+        "id": 161,
+        "state_id": 8,
+        "name": "MAGUMERI"
+    },
+    {
+        "id": 162,
+        "state_id": 8,
+        "name": "MAIDUGURI M. C."
+    },
+    {
+        "id": 163,
+        "state_id": 8,
+        "name": "MARTE"
+    },
+    {
+        "id": 164,
+        "state_id": 8,
+        "name": "MOBBAR"
+    },
+    {
+        "id": 165,
+        "state_id": 8,
+        "name": "MONGUNO"
+    },
+    {
+        "id": 166,
+        "state_id": 8,
+        "name": "NGALA"
+    },
+    {
+        "id": 167,
+        "state_id": 8,
+        "name": "NGANZAI"
+    },
+    {
+        "id": 168,
+        "state_id": 8,
+        "name": "SHANI"
+    },
+    {
+        "id": 169,
+        "state_id": 9,
+        "name": "ABI"
+    },
+    {
+        "id": 170,
+        "state_id": 9,
+        "name": "AKAMKPA"
+    },
+    {
+        "id": 171,
+        "state_id": 9,
+        "name": "AKPABUYO"
+    },
+    {
+        "id": 172,
+        "state_id": 9,
+        "name": "BAKASSI"
+    },
+    {
+        "id": 173,
+        "state_id": 9,
+        "name": "BEKWARRA"
+    },
+    {
+        "id": 174,
+        "state_id": 9,
+        "name": "BIASE"
+    },
+    {
+        "id": 175,
+        "state_id": 9,
+        "name": "BOKI"
+    },
+    {
+        "id": 176,
+        "state_id": 9,
+        "name": "CALABAR MUNICIPALITY"
+    },
+    {
+        "id": 177,
+        "state_id": 9,
+        "name": "CALABAR SOUTH"
+    },
+    {
+        "id": 178,
+        "state_id": 9,
+        "name": "ETUNG"
+    },
+    {
+        "id": 179,
+        "state_id": 9,
+        "name": "IKOM"
+    },
+    {
+        "id": 180,
+        "state_id": 9,
+        "name": "OBANLIKU"
+    },
+    {
+        "id": 181,
+        "state_id": 9,
+        "name": "OBUBRA"
+    },
+    {
+        "id": 182,
+        "state_id": 9,
+        "name": "OBUDU"
+    },
+    {
+        "id": 183,
+        "state_id": 9,
+        "name": "ODUKPANI"
+    },
+    {
+        "id": 184,
+        "state_id": 9,
+        "name": "OGOJA"
+    },
+    {
+        "id": 185,
+        "state_id": 9,
+        "name": "YAKURR"
+    },
+    {
+        "id": 186,
+        "state_id": 9,
+        "name": "YALA"
+    },
+    {
+        "id": 187,
+        "state_id": 10,
+        "name": "ANIOCHA NORTH"
+    },
+    {
+        "id": 188,
+        "state_id": 10,
+        "name": "ANIOCHA - SOUTH"
+    },
+    {
+        "id": 189,
+        "state_id": 10,
+        "name": "BOMADI"
+    },
+    {
+        "id": 190,
+        "state_id": 10,
+        "name": "BURUTU"
+    },
+    {
+        "id": 191,
+        "state_id": 10,
+        "name": "ETHIOPE  EAST"
+    },
+    {
+        "id": 192,
+        "state_id": 10,
+        "name": "ETHIOPE  WEST"
+    },
+    {
+        "id": 193,
+        "state_id": 10,
+        "name": "IKA NORTH- EAST"
+    },
+    {
+        "id": 194,
+        "state_id": 10,
+        "name": "IKA - SOUTH"
+    },
+    {
+        "id": 195,
+        "state_id": 10,
+        "name": "ISOKO NORTH"
+    },
+    {
+        "id": 196,
+        "state_id": 10,
+        "name": "ISOKO SOUTH"
+    },
+    {
+        "id": 197,
+        "state_id": 10,
+        "name": "NDOKWA EAST"
+    },
+    {
+        "id": 198,
+        "state_id": 10,
+        "name": "NDOKWA WEST"
+    },
+    {
+        "id": 199,
+        "state_id": 10,
+        "name": "OKPE"
+    },
+    {
+        "id": 200,
+        "state_id": 10,
+        "name": "OSHIMILI - NORTH"
+    },
+    {
+        "id": 201,
+        "state_id": 10,
+        "name": "OSHIMILI - SOUTH"
+    },
+    {
+        "id": 202,
+        "state_id": 10,
+        "name": "PATANI"
+    },
+    {
+        "id": 203,
+        "state_id": 10,
+        "name": "SAPELE"
+    },
+    {
+        "id": 204,
+        "state_id": 10,
+        "name": "UDU"
+    },
+    {
+        "id": 205,
+        "state_id": 10,
+        "name": "UGHELLI NORTH"
+    },
+    {
+        "id": 206,
+        "state_id": 10,
+        "name": "UGHELLI SOUTH"
+    },
+    {
+        "id": 207,
+        "state_id": 10,
+        "name": "UKWUANI"
+    },
+    {
+        "id": 208,
+        "state_id": 10,
+        "name": "UVWIE"
+    },
+    {
+        "id": 209,
+        "state_id": 10,
+        "name": "WARRI  NORTH"
+    },
+    {
+        "id": 210,
+        "state_id": 10,
+        "name": "WARRI SOUTH"
+    },
+    {
+        "id": 211,
+        "state_id": 10,
+        "name": "WARRI SOUTH  WEST"
+    },
+    {
+        "id": 212,
+        "state_id": 11,
+        "name": "ABAKALIKI"
+    },
+    {
+        "id": 213,
+        "state_id": 11,
+        "name": "AFIKPO NORTH"
+    },
+    {
+        "id": 214,
+        "state_id": 11,
+        "name": "AFIKPO  SOUTH"
+    },
+    {
+        "id": 215,
+        "state_id": 11,
+        "name": "EBONYI"
+    },
+    {
+        "id": 216,
+        "state_id": 11,
+        "name": "EZZA NORTH"
+    },
+    {
+        "id": 217,
+        "state_id": 11,
+        "name": "EZZA SOUTH"
+    },
+    {
+        "id": 218,
+        "state_id": 11,
+        "name": "IKWO"
+    },
+    {
+        "id": 219,
+        "state_id": 11,
+        "name": "ISHIELU"
+    },
+    {
+        "id": 220,
+        "state_id": 11,
+        "name": "IVO"
+    },
+    {
+        "id": 221,
+        "state_id": 11,
+        "name": "IZZI"
+    },
+    {
+        "id": 222,
+        "state_id": 11,
+        "name": "OHAOZARA"
+    },
+    {
+        "id": 223,
+        "state_id": 11,
+        "name": "OHAUKWU"
+    },
+    {
+        "id": 224,
+        "state_id": 11,
+        "name": "ONICHA"
+    },
+    {
+        "id": 225,
+        "state_id": 12,
+        "name": "AKOKO EDO"
+    },
+    {
+        "id": 226,
+        "state_id": 12,
+        "name": "EGOR"
+    },
+    {
+        "id": 227,
+        "state_id": 12,
+        "name": "ESAN CENTRAL"
+    },
+    {
+        "id": 228,
+        "state_id": 12,
+        "name": "ESAN NORTH EAST"
+    },
+    {
+        "id": 229,
+        "state_id": 12,
+        "name": "ESAN SOUTH EAST"
+    },
+    {
+        "id": 230,
+        "state_id": 12,
+        "name": "ESAN WEST"
+    },
+    {
+        "id": 231,
+        "state_id": 12,
+        "name": "ETSAKO CENTRAL"
+    },
+    {
+        "id": 232,
+        "state_id": 12,
+        "name": "ETSAKO EAST"
+    },
+    {
+        "id": 233,
+        "state_id": 12,
+        "name": "ETSAKO  WEST"
+    },
+    {
+        "id": 234,
+        "state_id": 12,
+        "name": "IGUEBEN"
+    },
+    {
+        "id": 235,
+        "state_id": 12,
+        "name": "IKPOBA/OKHA"
+    },
+    {
+        "id": 236,
+        "state_id": 12,
+        "name": "OREDO"
+    },
+    {
+        "id": 237,
+        "state_id": 12,
+        "name": "ORHIONMWON"
+    },
+    {
+        "id": 238,
+        "state_id": 12,
+        "name": "OVIA NORTH EAST"
+    },
+    {
+        "id": 239,
+        "state_id": 12,
+        "name": "OVIA SOUTH WEST"
+    },
+    {
+        "id": 240,
+        "state_id": 12,
+        "name": "OWAN EAST"
+    },
+    {
+        "id": 241,
+        "state_id": 12,
+        "name": "OWAN WEST"
+    },
+    {
+        "id": 242,
+        "state_id": 12,
+        "name": "UHUNMWODE"
+    },
+    {
+        "id": 243,
+        "state_id": 13,
+        "name": "ADO EKITI"
+    },
+    {
+        "id": 244,
+        "state_id": 13,
+        "name": "EFON"
+    },
+    {
+        "id": 245,
+        "state_id": 13,
+        "name": "EKITI EAST"
+    },
+    {
+        "id": 246,
+        "state_id": 13,
+        "name": "EKITI WEST"
+    },
+    {
+        "id": 247,
+        "state_id": 13,
+        "name": "EKITI SOUTH WEST"
+    },
+    {
+        "id": 248,
+        "state_id": 13,
+        "name": "EMURE"
+    },
+    {
+        "id": 249,
+        "state_id": 13,
+        "name": "GBONYIN"
+    },
+    {
+        "id": 250,
+        "state_id": 13,
+        "name": "IDO / OSI"
+    },
+    {
+        "id": 251,
+        "state_id": 13,
+        "name": "IJERO"
+    },
+    {
+        "id": 252,
+        "state_id": 13,
+        "name": "IKERE"
+    },
+    {
+        "id": 253,
+        "state_id": 13,
+        "name": "IKOLE"
+    },
+    {
+        "id": 254,
+        "state_id": 13,
+        "name": "ILEJEMEJE"
+    },
+    {
+        "id": 255,
+        "state_id": 13,
+        "name": "IREPODUN / IFELODUN"
+    },
+    {
+        "id": 256,
+        "state_id": 13,
+        "name": "ISE / ORUN"
+    },
+    {
+        "id": 257,
+        "state_id": 13,
+        "name": "MOBA"
+    },
+    {
+        "id": 258,
+        "state_id": 13,
+        "name": "OYE"
+    },
+    {
+        "id": 259,
+        "state_id": 14,
+        "name": "ANINRI"
+    },
+    {
+        "id": 260,
+        "state_id": 14,
+        "name": "AWGU"
+    },
+    {
+        "id": 261,
+        "state_id": 14,
+        "name": "ENUGU EAST"
+    },
+    {
+        "id": 262,
+        "state_id": 14,
+        "name": "ENUGU NORTH"
+    },
+    {
+        "id": 263,
+        "state_id": 14,
+        "name": "ENUGU SOUTH"
+    },
+    {
+        "id": 264,
+        "state_id": 14,
+        "name": "EZEAGU"
+    },
+    {
+        "id": 265,
+        "state_id": 14,
+        "name": "IGBO ETITI"
+    },
+    {
+        "id": 266,
+        "state_id": 14,
+        "name": "IGBO EZE NORTH"
+    },
+    {
+        "id": 267,
+        "state_id": 14,
+        "name": "IGBO EZE SOUTH"
+    },
+    {
+        "id": 268,
+        "state_id": 14,
+        "name": "ISI UZO"
+    },
+    {
+        "id": 269,
+        "state_id": 14,
+        "name": "NKANU EAST"
+    },
+    {
+        "id": 270,
+        "state_id": 14,
+        "name": "NKANU WEST"
+    },
+    {
+        "id": 271,
+        "state_id": 14,
+        "name": "NSUKKA"
+    },
+    {
+        "id": 272,
+        "state_id": 14,
+        "name": "OJI-RIVER"
+    },
+    {
+        "id": 273,
+        "state_id": 14,
+        "name": "UDENU"
+    },
+    {
+        "id": 274,
+        "state_id": 14,
+        "name": "UDI"
+    },
+    {
+        "id": 275,
+        "state_id": 14,
+        "name": "UZO-UWANI"
+    },
+    {
+        "id": 276,
+        "state_id": 15,
+        "name": "ABAJI"
+    },
+    {
+        "id": 277,
+        "state_id": 15,
+        "name": "BWARI"
+    },
+    {
+        "id": 278,
+        "state_id": 15,
+        "name": "GWAGWALADA"
+    },
+    {
+        "id": 279,
+        "state_id": 15,
+        "name": "KUJE"
+    },
+    {
+        "id": 280,
+        "state_id": 15,
+        "name": "KWALI"
+    },
+    {
+        "id": 281,
+        "state_id": 15,
+        "name": "MUNICIPAL"
+    },
+    {
+        "id": 282,
+        "state_id": 16,
+        "name": "AKKO"
+    },
+    {
+        "id": 283,
+        "state_id": 16,
+        "name": "BALANGA"
+    },
+    {
+        "id": 284,
+        "state_id": 16,
+        "name": "BILLIRI"
+    },
+    {
+        "id": 285,
+        "state_id": 16,
+        "name": "DUKKU"
+    },
+    {
+        "id": 286,
+        "state_id": 16,
+        "name": "FUNAKAYE"
+    },
+    {
+        "id": 287,
+        "state_id": 16,
+        "name": "GOMBE"
+    },
+    {
+        "id": 288,
+        "state_id": 16,
+        "name": "KALTUNGO"
+    },
+    {
+        "id": 289,
+        "state_id": 16,
+        "name": "KWAMI"
+    },
+    {
+        "id": 290,
+        "state_id": 16,
+        "name": "NAFADA"
+    },
+    {
+        "id": 291,
+        "state_id": 16,
+        "name": "SHONGOM"
+    },
+    {
+        "id": 292,
+        "state_id": 16,
+        "name": "YALMALTU/ DEBA"
+    },
+    {
+        "id": 293,
+        "state_id": 17,
+        "name": "ABOH MBAISE"
+    },
+    {
+        "id": 294,
+        "state_id": 17,
+        "name": "AHIAZU MBAISE"
+    },
+    {
+        "id": 295,
+        "state_id": 17,
+        "name": "EHIME MBANO"
+    },
+    {
+        "id": 296,
+        "state_id": 17,
+        "name": "EZINIHITTE MBAISE"
+    },
+    {
+        "id": 297,
+        "state_id": 17,
+        "name": "IDEATO NORTH"
+    },
+    {
+        "id": 298,
+        "state_id": 17,
+        "name": "IDEATO SOUTH"
+    },
+    {
+        "id": 299,
+        "state_id": 17,
+        "name": "IHITTE/UBOMA (ISINWEKE)"
+    },
+    {
+        "id": 300,
+        "state_id": 17,
+        "name": "IKEDURU (IHO)"
+    },
+    {
+        "id": 301,
+        "state_id": 17,
+        "name": "ISIALA MBANO (UMUELEMAI)"
+    },
+    {
+        "id": 302,
+        "state_id": 17,
+        "name": "ISU (UMUNDUGBA)"
+    },
+    {
+        "id": 303,
+        "state_id": 17,
+        "name": "MBAITOLI (NWAORIEUBI)"
+    },
+    {
+        "id": 304,
+        "state_id": 17,
+        "name": "NGOR OKPALA (UMUNEKE)"
+    },
+    {
+        "id": 305,
+        "state_id": 17,
+        "name": "NJABA (NNENASA)"
+    },
+    {
+        "id": 306,
+        "state_id": 17,
+        "name": "NKWERRE"
+    },
+    {
+        "id": 307,
+        "state_id": 17,
+        "name": "NWANGELE (ONU-NWANGELE AMAIGBO)"
+    },
+    {
+        "id": 308,
+        "state_id": 17,
+        "name": "OBOWO (OTOKO)"
+    },
+    {
+        "id": 309,
+        "state_id": 17,
+        "name": "OGUTA (OGUTA)"
+    },
+    {
+        "id": 310,
+        "state_id": 17,
+        "name": "OHAJI/EGBEMA (MMAHU-EGBEMA)"
+    },
+    {
+        "id": 311,
+        "state_id": 17,
+        "name": "OKIGWE  (OKIGWE)"
+    },
+    {
+        "id": 312,
+        "state_id": 17,
+        "name": "ONUIMO (OKWE)"
+    },
+    {
+        "id": 313,
+        "state_id": 17,
+        "name": "ORLU"
+    },
+    {
+        "id": 314,
+        "state_id": 17,
+        "name": "ORSU (AWO IDEMILI)"
+    },
+    {
+        "id": 315,
+        "state_id": 17,
+        "name": "ORU-EAST"
+    },
+    {
+        "id": 316,
+        "state_id": 17,
+        "name": "ORU WEST (MGBIDI)"
+    },
+    {
+        "id": 317,
+        "state_id": 17,
+        "name": "OWERRI MUNICIPAL"
+    },
+    {
+        "id": 318,
+        "state_id": 17,
+        "name": "OWERRI NORTH (ORIE URATTA)"
+    },
+    {
+        "id": 319,
+        "state_id": 17,
+        "name": "OWERRI WEST (UMUGUMA)"
+    },
+    {
+        "id": 320,
+        "state_id": 18,
+        "name": "AUYO"
+    },
+    {
+        "id": 321,
+        "state_id": 18,
+        "name": "BABURA"
+    },
+    {
+        "id": 322,
+        "state_id": 18,
+        "name": "BIRNIN KUDU"
+    },
+    {
+        "id": 323,
+        "state_id": 18,
+        "name": "BIRNIWA"
+    },
+    {
+        "id": 324,
+        "state_id": 18,
+        "name": "BUJI"
+    },
+    {
+        "id": 325,
+        "state_id": 18,
+        "name": "DUTSE"
+    },
+    {
+        "id": 326,
+        "state_id": 18,
+        "name": "GARKI"
+    },
+    {
+        "id": 327,
+        "state_id": 18,
+        "name": "GAGARAWA"
+    },
+    {
+        "id": 328,
+        "state_id": 18,
+        "name": "GUMEL"
+    },
+    {
+        "id": 329,
+        "state_id": 18,
+        "name": "GURI"
+    },
+    {
+        "id": 330,
+        "state_id": 18,
+        "name": "GWARAM"
+    },
+    {
+        "id": 331,
+        "state_id": 18,
+        "name": "GWIWA"
+    },
+    {
+        "id": 332,
+        "state_id": 18,
+        "name": "HADEJIA"
+    },
+    {
+        "id": 333,
+        "state_id": 18,
+        "name": "JAHUN"
+    },
+    {
+        "id": 334,
+        "state_id": 18,
+        "name": "KAFIN HAUSA"
+    },
+    {
+        "id": 335,
+        "state_id": 18,
+        "name": "KAUGAMA"
+    },
+    {
+        "id": 336,
+        "state_id": 18,
+        "name": "KAZAURE"
+    },
+    {
+        "id": 337,
+        "state_id": 18,
+        "name": "KIRIKA SAMMA"
+    },
+    {
+        "id": 338,
+        "state_id": 18,
+        "name": "KIYAWA"
+    },
+    {
+        "id": 339,
+        "state_id": 18,
+        "name": "MAIGATARI"
+    },
+    {
+        "id": 340,
+        "state_id": 18,
+        "name": "MALAM MADORI"
+    },
+    {
+        "id": 341,
+        "state_id": 18,
+        "name": "MIGA"
+    },
+    {
+        "id": 342,
+        "state_id": 18,
+        "name": "RINGIM"
+    },
+    {
+        "id": 343,
+        "state_id": 18,
+        "name": "RONI"
+    },
+    {
+        "id": 344,
+        "state_id": 18,
+        "name": "SULE-TANKARKAR"
+    },
+    {
+        "id": 345,
+        "state_id": 18,
+        "name": "TAURA"
+    },
+    {
+        "id": 346,
+        "state_id": 18,
+        "name": "YANKWASHI"
+    },
+    {
+        "id": 347,
+        "state_id": 19,
+        "name": "BIRNIN GWARI"
+    },
+    {
+        "id": 348,
+        "state_id": 19,
+        "name": "CHIKUN"
+    },
+    {
+        "id": 349,
+        "state_id": 19,
+        "name": "GIWA"
+    },
+    {
+        "id": 350,
+        "state_id": 19,
+        "name": "IGABI"
+    },
+    {
+        "id": 351,
+        "state_id": 19,
+        "name": "IKARA"
+    },
+    {
+        "id": 352,
+        "state_id": 19,
+        "name": "JABA"
+    },
+    {
+        "id": 353,
+        "state_id": 19,
+        "name": "JEMA'A"
+    },
+    {
+        "id": 354,
+        "state_id": 19,
+        "name": "KACHIA"
+    },
+    {
+        "id": 355,
+        "state_id": 19,
+        "name": "KADUNA NORTH"
+    },
+    {
+        "id": 356,
+        "state_id": 19,
+        "name": "KADUNA SOUTH"
+    },
+    {
+        "id": 357,
+        "state_id": 19,
+        "name": "KAGARKO"
+    },
+    {
+        "id": 358,
+        "state_id": 19,
+        "name": "KAJURU"
+    },
+    {
+        "id": 359,
+        "state_id": 19,
+        "name": "KAURA"
+    },
+    {
+        "id": 360,
+        "state_id": 19,
+        "name": "KAURU"
+    },
+    {
+        "id": 361,
+        "state_id": 19,
+        "name": "KUBAU"
+    },
+    {
+        "id": 362,
+        "state_id": 19,
+        "name": "KUDAN"
+    },
+    {
+        "id": 363,
+        "state_id": 19,
+        "name": "LERE"
+    },
+    {
+        "id": 364,
+        "state_id": 19,
+        "name": "MAKARFI"
+    },
+    {
+        "id": 365,
+        "state_id": 19,
+        "name": "SABON GARI"
+    },
+    {
+        "id": 366,
+        "state_id": 19,
+        "name": "SANGA"
+    },
+    {
+        "id": 367,
+        "state_id": 19,
+        "name": "SOBA"
+    },
+    {
+        "id": 368,
+        "state_id": 19,
+        "name": "ZANGON KATAF"
+    },
+    {
+        "id": 369,
+        "state_id": 19,
+        "name": "ZARIA"
+    },
+    {
+        "id": 370,
+        "state_id": 20,
+        "name": "AJINGI"
+    },
+    {
+        "id": 371,
+        "state_id": 20,
+        "name": "ALBASU"
+    },
+    {
+        "id": 372,
+        "state_id": 20,
+        "name": "BAGWAI"
+    },
+    {
+        "id": 373,
+        "state_id": 20,
+        "name": "BEBEJI"
+    },
+    {
+        "id": 374,
+        "state_id": 20,
+        "name": "BICHI"
+    },
+    {
+        "id": 375,
+        "state_id": 20,
+        "name": "BUNKURE"
+    },
+    {
+        "id": 376,
+        "state_id": 20,
+        "name": "DALA"
+    },
+    {
+        "id": 377,
+        "state_id": 20,
+        "name": "DANBATA"
+    },
+    {
+        "id": 378,
+        "state_id": 20,
+        "name": "DAWAKI KUDU"
+    },
+    {
+        "id": 379,
+        "state_id": 20,
+        "name": "DAWAKI TOFA"
+    },
+    {
+        "id": 380,
+        "state_id": 20,
+        "name": "DOGUWA"
+    },
+    {
+        "id": 381,
+        "state_id": 20,
+        "name": "FAGGE"
+    },
+    {
+        "id": 382,
+        "state_id": 20,
+        "name": "GABASAWA"
+    },
+    {
+        "id": 383,
+        "state_id": 20,
+        "name": "GARKO"
+    },
+    {
+        "id": 384,
+        "state_id": 20,
+        "name": "GARUN MALAM"
+    },
+    {
+        "id": 385,
+        "state_id": 20,
+        "name": "GAYA"
+    },
+    {
+        "id": 386,
+        "state_id": 20,
+        "name": "GEZAWA"
+    },
+    {
+        "id": 387,
+        "state_id": 20,
+        "name": "GWALE"
+    },
+    {
+        "id": 388,
+        "state_id": 20,
+        "name": "GWARZO"
+    },
+    {
+        "id": 389,
+        "state_id": 20,
+        "name": "KABO"
+    },
+    {
+        "id": 390,
+        "state_id": 20,
+        "name": "KANO MUNICIPAL"
+    },
+    {
+        "id": 391,
+        "state_id": 20,
+        "name": "KARAYE"
+    },
+    {
+        "id": 392,
+        "state_id": 20,
+        "name": "KIBIYA"
+    },
+    {
+        "id": 393,
+        "state_id": 20,
+        "name": "KIRU"
+    },
+    {
+        "id": 394,
+        "state_id": 20,
+        "name": "KUMBOTSO"
+    },
+    {
+        "id": 395,
+        "state_id": 20,
+        "name": "KUNCHI"
+    },
+    {
+        "id": 396,
+        "state_id": 20,
+        "name": "KURA"
+    },
+    {
+        "id": 397,
+        "state_id": 20,
+        "name": "MADOBI"
+    },
+    {
+        "id": 398,
+        "state_id": 20,
+        "name": "MAKODA"
+    },
+    {
+        "id": 399,
+        "state_id": 20,
+        "name": "MINJIBIR"
+    },
+    {
+        "id": 400,
+        "state_id": 20,
+        "name": "NASARAWA"
+    },
+    {
+        "id": 401,
+        "state_id": 20,
+        "name": "RANO"
+    },
+    {
+        "id": 402,
+        "state_id": 20,
+        "name": "RIMIN GADO"
+    },
+    {
+        "id": 403,
+        "state_id": 20,
+        "name": "ROGO"
+    },
+    {
+        "id": 404,
+        "state_id": 20,
+        "name": "SHANONO"
+    },
+    {
+        "id": 405,
+        "state_id": 20,
+        "name": "SUMAILA"
+    },
+    {
+        "id": 406,
+        "state_id": 20,
+        "name": "TAKAI"
+    },
+    {
+        "id": 407,
+        "state_id": 20,
+        "name": "TARAUNI"
+    },
+    {
+        "id": 408,
+        "state_id": 20,
+        "name": "TOFA"
+    },
+    {
+        "id": 409,
+        "state_id": 20,
+        "name": "TSANYAWA"
+    },
+    {
+        "id": 410,
+        "state_id": 20,
+        "name": "TUDUN WADA"
+    },
+    {
+        "id": 411,
+        "state_id": 20,
+        "name": "UNGOGO"
+    },
+    {
+        "id": 412,
+        "state_id": 20,
+        "name": "WARAWA"
+    },
+    {
+        "id": 413,
+        "state_id": 20,
+        "name": "WUDIL"
+    },
+    {
+        "id": 414,
+        "state_id": 21,
+        "name": "BAKORI"
+    },
+    {
+        "id": 415,
+        "state_id": 21,
+        "name": "BATAGARAWA"
+    },
+    {
+        "id": 416,
+        "state_id": 21,
+        "name": "BATSARI"
+    },
+    {
+        "id": 417,
+        "state_id": 21,
+        "name": "BAURE"
+    },
+    {
+        "id": 418,
+        "state_id": 21,
+        "name": "BINDAWA"
+    },
+    {
+        "id": 419,
+        "state_id": 21,
+        "name": "CHARANCHI"
+    },
+    {
+        "id": 420,
+        "state_id": 21,
+        "name": "DANDUME"
+    },
+    {
+        "id": 421,
+        "state_id": 21,
+        "name": "DANJA"
+    },
+    {
+        "id": 422,
+        "state_id": 21,
+        "name": "DAN MUSA"
+    },
+    {
+        "id": 423,
+        "state_id": 21,
+        "name": "DAURA"
+    },
+    {
+        "id": 424,
+        "state_id": 21,
+        "name": "DUTSI"
+    },
+    {
+        "id": 425,
+        "state_id": 21,
+        "name": "DUTSIN-MA"
+    },
+    {
+        "id": 426,
+        "state_id": 21,
+        "name": "FASKARI"
+    },
+    {
+        "id": 427,
+        "state_id": 21,
+        "name": "FUNTUA"
+    },
+    {
+        "id": 428,
+        "state_id": 21,
+        "name": "INGAWA"
+    },
+    {
+        "id": 429,
+        "state_id": 21,
+        "name": "JIBIA"
+    },
+    {
+        "id": 430,
+        "state_id": 21,
+        "name": "KAFUR"
+    },
+    {
+        "id": 431,
+        "state_id": 21,
+        "name": "KAITA"
+    },
+    {
+        "id": 432,
+        "state_id": 21,
+        "name": "KANKARA"
+    },
+    {
+        "id": 433,
+        "state_id": 21,
+        "name": "KANKIA"
+    },
+    {
+        "id": 434,
+        "state_id": 21,
+        "name": "KATSINA"
+    },
+    {
+        "id": 435,
+        "state_id": 21,
+        "name": "KURFI"
+    },
+    {
+        "id": 436,
+        "state_id": 21,
+        "name": "KUSADA"
+    },
+    {
+        "id": 437,
+        "state_id": 21,
+        "name": "MAI'ADUA"
+    },
+    {
+        "id": 438,
+        "state_id": 21,
+        "name": "MALUFASHI"
+    },
+    {
+        "id": 439,
+        "state_id": 21,
+        "name": "MANI"
+    },
+    {
+        "id": 440,
+        "state_id": 21,
+        "name": "MASHI"
+    },
+    {
+        "id": 441,
+        "state_id": 21,
+        "name": "MATAZU"
+    },
+    {
+        "id": 442,
+        "state_id": 21,
+        "name": "MUSAWA"
+    },
+    {
+        "id": 443,
+        "state_id": 21,
+        "name": "RIMI"
+    },
+    {
+        "id": 444,
+        "state_id": 21,
+        "name": "SABUWA"
+    },
+    {
+        "id": 445,
+        "state_id": 21,
+        "name": "SAFANA"
+    },
+    {
+        "id": 446,
+        "state_id": 21,
+        "name": "SANDAMU"
+    },
+    {
+        "id": 447,
+        "state_id": 21,
+        "name": "ZANGO"
+    },
+    {
+        "id": 448,
+        "state_id": 22,
+        "name": "ALIERO"
+    },
+    {
+        "id": 449,
+        "state_id": 22,
+        "name": "AREWA"
+    },
+    {
+        "id": 450,
+        "state_id": 22,
+        "name": "ARGUNGU"
+    },
+    {
+        "id": 451,
+        "state_id": 22,
+        "name": "AUGIE"
+    },
+    {
+        "id": 452,
+        "state_id": 22,
+        "name": "BAGUDO"
+    },
+    {
+        "id": 453,
+        "state_id": 22,
+        "name": "BIRNIN KEBBI"
+    },
+    {
+        "id": 454,
+        "state_id": 22,
+        "name": "BUNZA"
+    },
+    {
+        "id": 455,
+        "state_id": 22,
+        "name": "DANDI"
+    },
+    {
+        "id": 456,
+        "state_id": 22,
+        "name": "FAKAI"
+    },
+    {
+        "id": 457,
+        "state_id": 22,
+        "name": "GWANDU"
+    },
+    {
+        "id": 458,
+        "state_id": 22,
+        "name": "JEGA"
+    },
+    {
+        "id": 459,
+        "state_id": 22,
+        "name": "KALGO"
+    },
+    {
+        "id": 460,
+        "state_id": 22,
+        "name": "KOKO/BESSE"
+    },
+    {
+        "id": 461,
+        "state_id": 22,
+        "name": "MAIYAMA"
+    },
+    {
+        "id": 462,
+        "state_id": 22,
+        "name": "NGASKI"
+    },
+    {
+        "id": 463,
+        "state_id": 22,
+        "name": "SAKABA"
+    },
+    {
+        "id": 464,
+        "state_id": 22,
+        "name": "SHANGA"
+    },
+    {
+        "id": 465,
+        "state_id": 22,
+        "name": "SURU"
+    },
+    {
+        "id": 466,
+        "state_id": 22,
+        "name": "WASAGU/DANKO"
+    },
+    {
+        "id": 467,
+        "state_id": 22,
+        "name": "YAURI"
+    },
+    {
+        "id": 468,
+        "state_id": 22,
+        "name": "ZURU"
+    },
+    {
+        "id": 469,
+        "state_id": 23,
+        "name": "ADAVI"
+    },
+    {
+        "id": 470,
+        "state_id": 23,
+        "name": "AJAOKUTA"
+    },
+    {
+        "id": 471,
+        "state_id": 23,
+        "name": "ANKPA"
+    },
+    {
+        "id": 472,
+        "state_id": 23,
+        "name": "BASSA"
+    },
+    {
+        "id": 473,
+        "state_id": 23,
+        "name": "DEKINA"
+    },
+    {
+        "id": 474,
+        "state_id": 23,
+        "name": "IBAJI"
+    },
+    {
+        "id": 475,
+        "state_id": 23,
+        "name": "IDAH"
+    },
+    {
+        "id": 476,
+        "state_id": 23,
+        "name": "IGALAMELA/ODOLU"
+    },
+    {
+        "id": 477,
+        "state_id": 23,
+        "name": "IJUMU"
+    },
+    {
+        "id": 478,
+        "state_id": 23,
+        "name": "KABBA/BUNU"
+    },
+    {
+        "id": 479,
+        "state_id": 23,
+        "name": "KOGI . K. K."
+    },
+    {
+        "id": 480,
+        "state_id": 23,
+        "name": "LOKOJA"
+    },
+    {
+        "id": 481,
+        "state_id": 23,
+        "name": "MOPA MORO"
+    },
+    {
+        "id": 482,
+        "state_id": 23,
+        "name": "OFU"
+    },
+    {
+        "id": 483,
+        "state_id": 23,
+        "name": "OGORI MANGOGO"
+    },
+    {
+        "id": 484,
+        "state_id": 23,
+        "name": "OKEHI"
+    },
+    {
+        "id": 485,
+        "state_id": 23,
+        "name": "OKENE"
+    },
+    {
+        "id": 486,
+        "state_id": 23,
+        "name": "OLAMABORO"
+    },
+    {
+        "id": 487,
+        "state_id": 23,
+        "name": "OMALA"
+    },
+    {
+        "id": 488,
+        "state_id": 23,
+        "name": "YAGBA EAST"
+    },
+    {
+        "id": 489,
+        "state_id": 23,
+        "name": "YAGBA WEST"
+    },
+    {
+        "id": 490,
+        "state_id": 24,
+        "name": "ASA"
+    },
+    {
+        "id": 491,
+        "state_id": 24,
+        "name": "BARUTEN"
+    },
+    {
+        "id": 492,
+        "state_id": 24,
+        "name": "EDU"
+    },
+    {
+        "id": 493,
+        "state_id": 24,
+        "name": "EKITI"
+    },
+    {
+        "id": 494,
+        "state_id": 24,
+        "name": "IFELODUN"
+    },
+    {
+        "id": 495,
+        "state_id": 24,
+        "name": "ILORIN EAST"
+    },
+    {
+        "id": 496,
+        "state_id": 24,
+        "name": "ILORIN-SOUTH"
+    },
+    {
+        "id": 497,
+        "state_id": 24,
+        "name": "ILORIN-WEST"
+    },
+    {
+        "id": 498,
+        "state_id": 24,
+        "name": "IREPODUN"
+    },
+    {
+        "id": 499,
+        "state_id": 24,
+        "name": "ISIN"
+    },
+    {
+        "id": 500,
+        "state_id": 24,
+        "name": "KAIAMA"
+    },
+    {
+        "id": 501,
+        "state_id": 24,
+        "name": "MORO"
+    },
+    {
+        "id": 502,
+        "state_id": 24,
+        "name": "OFFA"
+    },
+    {
+        "id": 503,
+        "state_id": 24,
+        "name": "OKE - ERO"
+    },
+    {
+        "id": 504,
+        "state_id": 24,
+        "name": "OYUN"
+    },
+    {
+        "id": 505,
+        "state_id": 24,
+        "name": "PATIGI"
+    },
+    {
+        "id": 506,
+        "state_id": 25,
+        "name": "AGEGE"
+    },
+    {
+        "id": 507,
+        "state_id": 25,
+        "name": "AJEROMI/IFELODUN"
+    },
+    {
+        "id": 508,
+        "state_id": 25,
+        "name": "ALIMOSHO"
+    },
+    {
+        "id": 509,
+        "state_id": 25,
+        "name": "AMUWO-ODOFIN"
+    },
+    {
+        "id": 510,
+        "state_id": 25,
+        "name": "APAPA"
+    },
+    {
+        "id": 511,
+        "state_id": 25,
+        "name": "BADAGRY"
+    },
+    {
+        "id": 512,
+        "state_id": 25,
+        "name": "EPE"
+    },
+    {
+        "id": 513,
+        "state_id": 25,
+        "name": "ETI-OSA"
+    },
+    {
+        "id": 514,
+        "state_id": 25,
+        "name": "IBEJU/LEKKI"
+    },
+    {
+        "id": 515,
+        "state_id": 25,
+        "name": "IFAKO-IJAYE"
+    },
+    {
+        "id": 516,
+        "state_id": 25,
+        "name": "IKEJA"
+    },
+    {
+        "id": 517,
+        "state_id": 25,
+        "name": "IKORODU"
+    },
+    {
+        "id": 518,
+        "state_id": 25,
+        "name": "KOSOFE"
+    },
+    {
+        "id": 519,
+        "state_id": 25,
+        "name": "LAGOS ISLAND"
+    },
+    {
+        "id": 520,
+        "state_id": 25,
+        "name": "LAGOS MAINLAND"
+    },
+    {
+        "id": 521,
+        "state_id": 25,
+        "name": "MUSHIN"
+    },
+    {
+        "id": 522,
+        "state_id": 25,
+        "name": "OJO"
+    },
+    {
+        "id": 523,
+        "state_id": 25,
+        "name": "OSHODI/ISOLO"
+    },
+    {
+        "id": 524,
+        "state_id": 25,
+        "name": "SOMOLU"
+    },
+    {
+        "id": 525,
+        "state_id": 25,
+        "name": "SURULERE"
+    },
+    {
+        "id": 526,
+        "state_id": 26,
+        "name": "AKWANGA"
+    },
+    {
+        "id": 527,
+        "state_id": 26,
+        "name": "AWE"
+    },
+    {
+        "id": 528,
+        "state_id": 26,
+        "name": "DOMA"
+    },
+    {
+        "id": 529,
+        "state_id": 26,
+        "name": "KARU"
+    },
+    {
+        "id": 530,
+        "state_id": 26,
+        "name": "KEANA"
+    },
+    {
+        "id": 531,
+        "state_id": 26,
+        "name": "KEFFI"
+    },
+    {
+        "id": 532,
+        "state_id": 26,
+        "name": "KOKONA"
+    },
+    {
+        "id": 533,
+        "state_id": 26,
+        "name": "LAFIA"
+    },
+    {
+        "id": 771,
+        "state_id": 26,
+        "name": "NASARAWA"
+    },
+    {
+        "id": 534,
+        "state_id": 26,
+        "name": "NASARAWA EGGON"
+    },
+    {
+        "id": 774,
+        "state_id": 26,
+        "name": "OBI"
+    },
+    {
+        "id": 535,
+        "state_id": 26,
+        "name": "TOTO"
+    },
+    {
+        "id": 536,
+        "state_id": 26,
+        "name": "WAMBA"
+    },
+    {
+        "id": 537,
+        "state_id": 27,
+        "name": "AGAIE"
+    },
+    {
+        "id": 538,
+        "state_id": 27,
+        "name": "AGWARA"
+    },
+    {
+        "id": 539,
+        "state_id": 27,
+        "name": "BIDA"
+    },
+    {
+        "id": 540,
+        "state_id": 27,
+        "name": "BORGU"
+    },
+    {
+        "id": 541,
+        "state_id": 27,
+        "name": "BOSSO"
+    },
+    {
+        "id": 542,
+        "state_id": 27,
+        "name": "CHANCHAGA"
+    },
+    {
+        "id": 543,
+        "state_id": 27,
+        "name": "EDATTI"
+    },
+    {
+        "id": 544,
+        "state_id": 27,
+        "name": "GBAKO"
+    },
+    {
+        "id": 545,
+        "state_id": 27,
+        "name": "GURARA"
+    },
+    {
+        "id": 546,
+        "state_id": 27,
+        "name": "KATCHA"
+    },
+    {
+        "id": 547,
+        "state_id": 27,
+        "name": "KONTAGORA"
+    },
+    {
+        "id": 548,
+        "state_id": 27,
+        "name": "LAPAI"
+    },
+    {
+        "id": 549,
+        "state_id": 27,
+        "name": "LAVUN"
+    },
+    {
+        "id": 550,
+        "state_id": 27,
+        "name": "MAGAMA"
+    },
+    {
+        "id": 551,
+        "state_id": 27,
+        "name": "MARIGA"
+    },
+    {
+        "id": 552,
+        "state_id": 27,
+        "name": "MASHEGU"
+    },
+    {
+        "id": 553,
+        "state_id": 27,
+        "name": "MOKWA"
+    },
+    {
+        "id": 554,
+        "state_id": 27,
+        "name": "MUNYA"
+    },
+    {
+        "id": 555,
+        "state_id": 27,
+        "name": "PAIKORO"
+    },
+    {
+        "id": 556,
+        "state_id": 27,
+        "name": "RAFI"
+    },
+    {
+        "id": 557,
+        "state_id": 27,
+        "name": "RIJAU"
+    },
+    {
+        "id": 558,
+        "state_id": 27,
+        "name": "SHIRORO"
+    },
+    {
+        "id": 559,
+        "state_id": 27,
+        "name": "SULEJA"
+    },
+    {
+        "id": 560,
+        "state_id": 27,
+        "name": "TAFA"
+    },
+    {
+        "id": 561,
+        "state_id": 27,
+        "name": "WUSHISHI"
+    },
+    {
+        "id": 562,
+        "state_id": 28,
+        "name": "ABEOKUTA NORTH"
+    },
+    {
+        "id": 563,
+        "state_id": 28,
+        "name": "ABEOKUTA SOUTH"
+    },
+    {
+        "id": 564,
+        "state_id": 28,
+        "name": "ADO ODO-OTA"
+    },
+    {
+        "id": 565,
+        "state_id": 28,
+        "name": "EGBADO NORTH"
+    },
+    {
+        "id": 566,
+        "state_id": 28,
+        "name": "EGBADO SOUTH"
+    },
+    {
+        "id": 567,
+        "state_id": 28,
+        "name": "EWEKORO"
+    },
+    {
+        "id": 568,
+        "state_id": 28,
+        "name": "IFO"
+    },
+    {
+        "id": 569,
+        "state_id": 28,
+        "name": "IJEBU EAST"
+    },
+    {
+        "id": 570,
+        "state_id": 28,
+        "name": "IJEBU NORTH"
+    },
+    {
+        "id": 571,
+        "state_id": 28,
+        "name": "IJEBU NORTH EAST"
+    },
+    {
+        "id": 572,
+        "state_id": 28,
+        "name": "IJEBU ODE"
+    },
+    {
+        "id": 573,
+        "state_id": 28,
+        "name": "IKENNE"
+    },
+    {
+        "id": 574,
+        "state_id": 28,
+        "name": "IMEKO/AFON"
+    },
+    {
+        "id": 575,
+        "state_id": 28,
+        "name": "IPOKIA"
+    },
+    {
+        "id": 576,
+        "state_id": 28,
+        "name": "OBAFEMI/OWODE"
+    },
+    {
+        "id": 577,
+        "state_id": 28,
+        "name": "ODEDA"
+    },
+    {
+        "id": 578,
+        "state_id": 28,
+        "name": "ODOGBOLU"
+    },
+    {
+        "id": 579,
+        "state_id": 28,
+        "name": "OGUN WATER SIDE"
+    },
+    {
+        "id": 580,
+        "state_id": 28,
+        "name": "REMO NORTH"
+    },
+    {
+        "id": 581,
+        "state_id": 28,
+        "name": "SAGAMU"
+    },
+    {
+        "id": 582,
+        "state_id": 29,
+        "name": "AKOKO NORTH EAST"
+    },
+    {
+        "id": 583,
+        "state_id": 29,
+        "name": "AKOKO NORTH WEST"
+    },
+    {
+        "id": 584,
+        "state_id": 29,
+        "name": "AKOKO SOUTH EAST"
+    },
+    {
+        "id": 585,
+        "state_id": 29,
+        "name": "AKOKO SOUTH WEST"
+    },
+    {
+        "id": 586,
+        "state_id": 29,
+        "name": "AKURE NORTH"
+    },
+    {
+        "id": 587,
+        "state_id": 29,
+        "name": "AKURE SOUTH"
+    },
+    {
+        "id": 588,
+        "state_id": 29,
+        "name": "ESE-ODO"
+    },
+    {
+        "id": 589,
+        "state_id": 29,
+        "name": "IDANRE"
+    },
+    {
+        "id": 590,
+        "state_id": 29,
+        "name": "IFEDORE"
+    },
+    {
+        "id": 591,
+        "state_id": 29,
+        "name": "ILAJE"
+    },
+    {
+        "id": 592,
+        "state_id": 29,
+        "name": "ILEOLUJI/OKEIGBO"
+    },
+    {
+        "id": 593,
+        "state_id": 29,
+        "name": "IRELE"
+    },
+    {
+        "id": 594,
+        "state_id": 29,
+        "name": "ODIGBO"
+    },
+    {
+        "id": 595,
+        "state_id": 29,
+        "name": "OKITIPUPA"
+    },
+    {
+        "id": 596,
+        "state_id": 29,
+        "name": "ONDO EAST"
+    },
+    {
+        "id": 597,
+        "state_id": 29,
+        "name": "ONDO WEST"
+    },
+    {
+        "id": 598,
+        "state_id": 29,
+        "name": "OSE"
+    },
+    {
+        "id": 599,
+        "state_id": 29,
+        "name": "OWO"
+    },
+    {
+        "id": 600,
+        "state_id": 30,
+        "name": "ATAKUMOSA EAST"
+    },
+    {
+        "id": 601,
+        "state_id": 30,
+        "name": "ATAKUMOSA WEST"
+    },
+    {
+        "id": 602,
+        "state_id": 30,
+        "name": "AYEDAADE"
+    },
+    {
+        "id": 603,
+        "state_id": 30,
+        "name": "AYEDIRE"
+    },
+    {
+        "id": 604,
+        "state_id": 30,
+        "name": "BOLUWADURO"
+    },
+    {
+        "id": 605,
+        "state_id": 30,
+        "name": "BORIPE"
+    },
+    {
+        "id": 606,
+        "state_id": 30,
+        "name": "EDE NORTH"
+    },
+    {
+        "id": 607,
+        "state_id": 30,
+        "name": "EDE SOUTH"
+    },
+    {
+        "id": 608,
+        "state_id": 30,
+        "name": "EGBEDORE"
+    },
+    {
+        "id": 609,
+        "state_id": 30,
+        "name": "EJIGBO"
+    },
+    {
+        "id": 610,
+        "state_id": 30,
+        "name": "IFE CENTRAL"
+    },
+    {
+        "id": 611,
+        "state_id": 30,
+        "name": "IFEDAYO"
+    },
+    {
+        "id": 612,
+        "state_id": 30,
+        "name": "IFE EAST"
+    },
+    {
+        "id": 772,
+        "state_id": 30,
+        "name": "IFELODUN"
+    },
+    {
+        "id": 613,
+        "state_id": 30,
+        "name": "IFE NORTH"
+    },
+    {
+        "id": 614,
+        "state_id": 30,
+        "name": "IFE SOUTH"
+    },
+    {
+        "id": 615,
+        "state_id": 30,
+        "name": "ILA"
+    },
+    {
+        "id": 616,
+        "state_id": 30,
+        "name": "ILESA EAST"
+    },
+    {
+        "id": 617,
+        "state_id": 30,
+        "name": "ILESA WEST"
+    },
+    {
+        "id": 770,
+        "state_id": 30,
+        "name": "IREPODUN"
+    },
+    {
+        "id": 618,
+        "state_id": 30,
+        "name": "IREWOLE"
+    },
+    {
+        "id": 619,
+        "state_id": 30,
+        "name": "ISOKAN"
+    },
+    {
+        "id": 620,
+        "state_id": 30,
+        "name": "IWO"
+    },
+    {
+        "id": 621,
+        "state_id": 30,
+        "name": "OBOKUN"
+    },
+    {
+        "id": 622,
+        "state_id": 30,
+        "name": "ODO-OTIN"
+    },
+    {
+        "id": 623,
+        "state_id": 30,
+        "name": "OLA-OLUWA"
+    },
+    {
+        "id": 624,
+        "state_id": 30,
+        "name": "OLORUNDA"
+    },
+    {
+        "id": 625,
+        "state_id": 30,
+        "name": "ORIADE"
+    },
+    {
+        "id": 626,
+        "state_id": 30,
+        "name": "OROLU"
+    },
+    {
+        "id": 627,
+        "state_id": 30,
+        "name": "OSOGBO"
+    },
+    {
+        "id": 628,
+        "state_id": 31,
+        "name": "AFIJIO"
+    },
+    {
+        "id": 629,
+        "state_id": 31,
+        "name": "AKINYELE"
+    },
+    {
+        "id": 630,
+        "state_id": 31,
+        "name": "ATIBA"
+    },
+    {
+        "id": 631,
+        "state_id": 31,
+        "name": "ATISBO"
+    },
+    {
+        "id": 632,
+        "state_id": 31,
+        "name": "EGBEDA"
+    },
+    {
+        "id": 633,
+        "state_id": 31,
+        "name": "IBADAN NORTH"
+    },
+    {
+        "id": 634,
+        "state_id": 31,
+        "name": "IBADAN NORTH EAST"
+    },
+    {
+        "id": 635,
+        "state_id": 31,
+        "name": "IBADAN NORTH WEST"
+    },
+    {
+        "id": 636,
+        "state_id": 31,
+        "name": "IBADAN SOUTH-EAST"
+    },
+    {
+        "id": 637,
+        "state_id": 31,
+        "name": "IBADAN SOUTH WEST"
+    },
+    {
+        "id": 638,
+        "state_id": 31,
+        "name": "IBARAPA CENTRAL"
+    },
+    {
+        "id": 639,
+        "state_id": 31,
+        "name": "IBARAPA EAST"
+    },
+    {
+        "id": 640,
+        "state_id": 31,
+        "name": "IBARAPA NORTH"
+    },
+    {
+        "id": 641,
+        "state_id": 31,
+        "name": "IDO"
+    },
+    {
+        "id": 642,
+        "state_id": 31,
+        "name": "IREPO"
+    },
+    {
+        "id": 643,
+        "state_id": 31,
+        "name": "ISEYIN"
+    },
+    {
+        "id": 644,
+        "state_id": 31,
+        "name": "ITESIWAJU"
+    },
+    {
+        "id": 645,
+        "state_id": 31,
+        "name": "IWAJOWA"
+    },
+    {
+        "id": 646,
+        "state_id": 31,
+        "name": "KAJOLA"
+    },
+    {
+        "id": 647,
+        "state_id": 31,
+        "name": "LAGELU"
+    },
+    {
+        "id": 648,
+        "state_id": 31,
+        "name": "OGBOMOSO NORTH"
+    },
+    {
+        "id": 649,
+        "state_id": 31,
+        "name": "OGBOMOSO SOUTH"
+    },
+    {
+        "id": 650,
+        "state_id": 31,
+        "name": "OGO-OLUWA"
+    },
+    {
+        "id": 651,
+        "state_id": 31,
+        "name": "OLORUNSOGO"
+    },
+    {
+        "id": 652,
+        "state_id": 31,
+        "name": "OLUYOLE"
+    },
+    {
+        "id": 653,
+        "state_id": 31,
+        "name": "ONA-ARA"
+    },
+    {
+        "id": 654,
+        "state_id": 31,
+        "name": "OORELOPE"
+    },
+    {
+        "id": 655,
+        "state_id": 31,
+        "name": "ORI IRE"
+    },
+    {
+        "id": 656,
+        "state_id": 31,
+        "name": "OYO EAST"
+    },
+    {
+        "id": 657,
+        "state_id": 31,
+        "name": "OYO WEST"
+    },
+    {
+        "id": 658,
+        "state_id": 31,
+        "name": "SAKI EAST"
+    },
+    {
+        "id": 659,
+        "state_id": 31,
+        "name": "SAKI WEST"
+    },
+    {
+        "id": 773,
+        "state_id": 31,
+        "name": "SURULERE"
+    },
+    {
+        "id": 663,
+        "state_id": 32,
+        "name": "JOS NORTH"
+    },
+    {
+        "id": 660,
+        "state_id": 32,
+        "name": "BARIKIN LADI"
+    },
+    {
+        "id": 769,
+        "state_id": 32,
+        "name": "BASSA"
+    },
+    {
+        "id": 661,
+        "state_id": 32,
+        "name": "BOKKOS"
+    },
+    {
+        "id": 662,
+        "state_id": 32,
+        "name": "JOS EAST"
+    },
+    {
+        "id": 664,
+        "state_id": 32,
+        "name": "JOS SOUTH"
+    },
+    {
+        "id": 665,
+        "state_id": 32,
+        "name": "KANAM"
+    },
+    {
+        "id": 666,
+        "state_id": 32,
+        "name": "KANKE"
+    },
+    {
+        "id": 667,
+        "state_id": 32,
+        "name": "LANGTANG NORTH"
+    },
+    {
+        "id": 668,
+        "state_id": 32,
+        "name": "LANGTANG SOUTH"
+    },
+    {
+        "id": 669,
+        "state_id": 32,
+        "name": "MANGU"
+    },
+    {
+        "id": 670,
+        "state_id": 32,
+        "name": "MIKANG"
+    },
+    {
+        "id": 671,
+        "state_id": 32,
+        "name": "PANKSHIN"
+    },
+    {
+        "id": 672,
+        "state_id": 32,
+        "name": "QUA'AN PAN"
+    },
+    {
+        "id": 673,
+        "state_id": 32,
+        "name": "RIYOM"
+    },
+    {
+        "id": 674,
+        "state_id": 32,
+        "name": "SHENDAM"
+    },
+    {
+        "id": 675,
+        "state_id": 32,
+        "name": "WASE"
+    },
+    {
+        "id": 676,
+        "state_id": 33,
+        "name": "ABUA-ODUAL"
+    },
+    {
+        "id": 677,
+        "state_id": 33,
+        "name": "AHOADA EAST"
+    },
+    {
+        "id": 678,
+        "state_id": 33,
+        "name": "AHOADA WEST"
+    },
+    {
+        "id": 679,
+        "state_id": 33,
+        "name": "AKUKU TORU"
+    },
+    {
+        "id": 680,
+        "state_id": 33,
+        "name": "ANDONI"
+    },
+    {
+        "id": 681,
+        "state_id": 33,
+        "name": "ASARI-TORU"
+    },
+    {
+        "id": 682,
+        "state_id": 33,
+        "name": "BONNY"
+    },
+    {
+        "id": 683,
+        "state_id": 33,
+        "name": "DEGEMA"
+    },
+    {
+        "id": 684,
+        "state_id": 33,
+        "name": "ELEME"
+    },
+    {
+        "id": 685,
+        "state_id": 33,
+        "name": "EMOHUA"
+    },
+    {
+        "id": 686,
+        "state_id": 33,
+        "name": "ETCHE"
+    },
+    {
+        "id": 687,
+        "state_id": 33,
+        "name": "GOKANA"
+    },
+    {
+        "id": 688,
+        "state_id": 33,
+        "name": "IKWERRE"
+    },
+    {
+        "id": 689,
+        "state_id": 33,
+        "name": "KHANA"
+    },
+    {
+        "id": 690,
+        "state_id": 33,
+        "name": "OBIO/AKPOR"
+    },
+    {
+        "id": 691,
+        "state_id": 33,
+        "name": "OGBA/EGBEMA/NDONI"
+    },
+    {
+        "id": 692,
+        "state_id": 33,
+        "name": "OGU/BOLO"
+    },
+    {
+        "id": 693,
+        "state_id": 33,
+        "name": "OKRIKA"
+    },
+    {
+        "id": 694,
+        "state_id": 33,
+        "name": "OMUMA"
+    },
+    {
+        "id": 695,
+        "state_id": 33,
+        "name": "OPOBO/NEKORO"
+    },
+    {
+        "id": 696,
+        "state_id": 33,
+        "name": "OYIGBO"
+    },
+    {
+        "id": 697,
+        "state_id": 33,
+        "name": "PORT HARCOURT"
+    },
+    {
+        "id": 698,
+        "state_id": 33,
+        "name": "TAI"
+    },
+    {
+        "id": 699,
+        "state_id": 34,
+        "name": "BINJI"
+    },
+    {
+        "id": 700,
+        "state_id": 34,
+        "name": "BODINGA"
+    },
+    {
+        "id": 701,
+        "state_id": 34,
+        "name": "DANGE/SHUNI"
+    },
+    {
+        "id": 702,
+        "state_id": 34,
+        "name": "GADA"
+    },
+    {
+        "id": 703,
+        "state_id": 34,
+        "name": "GORONYO"
+    },
+    {
+        "id": 704,
+        "state_id": 34,
+        "name": "GUDU"
+    },
+    {
+        "id": 705,
+        "state_id": 34,
+        "name": "GWADABAWA"
+    },
+    {
+        "id": 706,
+        "state_id": 34,
+        "name": "ILLELA"
+    },
+    {
+        "id": 707,
+        "state_id": 34,
+        "name": "ISA"
+    },
+    {
+        "id": 708,
+        "state_id": 34,
+        "name": "KWARE"
+    },
+    {
+        "id": 709,
+        "state_id": 34,
+        "name": "KEBBE"
+    },
+    {
+        "id": 710,
+        "state_id": 34,
+        "name": "RABAH"
+    },
+    {
+        "id": 711,
+        "state_id": 34,
+        "name": "S/BIRNI"
+    },
+    {
+        "id": 712,
+        "state_id": 34,
+        "name": "SHAGARI"
+    },
+    {
+        "id": 713,
+        "state_id": 34,
+        "name": "SILAME"
+    },
+    {
+        "id": 714,
+        "state_id": 34,
+        "name": "SOKOTO NORTH"
+    },
+    {
+        "id": 715,
+        "state_id": 34,
+        "name": "SOKOTO SOUTH"
+    },
+    {
+        "id": 716,
+        "state_id": 34,
+        "name": "TAMBUWAL"
+    },
+    {
+        "id": 717,
+        "state_id": 34,
+        "name": "TANGAZA"
+    },
+    {
+        "id": 718,
+        "state_id": 34,
+        "name": "TURETA"
+    },
+    {
+        "id": 719,
+        "state_id": 34,
+        "name": "WAMAKKO"
+    },
+    {
+        "id": 720,
+        "state_id": 34,
+        "name": "WURNO"
+    },
+    {
+        "id": 721,
+        "state_id": 34,
+        "name": "YABO"
+    },
+    {
+        "id": 722,
+        "state_id": 35,
+        "name": "ARDO - KOLA"
+    },
+    {
+        "id": 723,
+        "state_id": 35,
+        "name": "BALI"
+    },
+    {
+        "id": 724,
+        "state_id": 35,
+        "name": "DONGA"
+    },
+    {
+        "id": 725,
+        "state_id": 35,
+        "name": "GASHAKA"
+    },
+    {
+        "id": 726,
+        "state_id": 35,
+        "name": "GASSOL"
+    },
+    {
+        "id": 727,
+        "state_id": 35,
+        "name": "IBI"
+    },
+    {
+        "id": 728,
+        "state_id": 35,
+        "name": "JALINGO"
+    },
+    {
+        "id": 729,
+        "state_id": 35,
+        "name": "KARIM-LAMIDO"
+    },
+    {
+        "id": 730,
+        "state_id": 35,
+        "name": "KURMI"
+    },
+    {
+        "id": 731,
+        "state_id": 35,
+        "name": "LAU"
+    },
+    {
+        "id": 732,
+        "state_id": 35,
+        "name": "SARDAUNA"
+    },
+    {
+        "id": 733,
+        "state_id": 35,
+        "name": "TAKUM"
+    },
+    {
+        "id": 734,
+        "state_id": 35,
+        "name": "USSA"
+    },
+    {
+        "id": 735,
+        "state_id": 35,
+        "name": "WUKARI"
+    },
+    {
+        "id": 736,
+        "state_id": 35,
+        "name": "YORRO"
+    },
+    {
+        "id": 737,
+        "state_id": 35,
+        "name": "ZING"
+    },
+    {
+        "id": 738,
+        "state_id": 36,
+        "name": "BADE"
+    },
+    {
+        "id": 739,
+        "state_id": 36,
+        "name": "BURSARI"
+    },
+    {
+        "id": 740,
+        "state_id": 36,
+        "name": "DAMATURU"
+    },
+    {
+        "id": 741,
+        "state_id": 36,
+        "name": "FIKA"
+    },
+    {
+        "id": 742,
+        "state_id": 36,
+        "name": "FUNE"
+    },
+    {
+        "id": 743,
+        "state_id": 36,
+        "name": "GEIDAM"
+    },
+    {
+        "id": 744,
+        "state_id": 36,
+        "name": "GUJBA"
+    },
+    {
+        "id": 745,
+        "state_id": 36,
+        "name": "GULANI"
+    },
+    {
+        "id": 746,
+        "state_id": 36,
+        "name": "JAKUSKO"
+    },
+    {
+        "id": 747,
+        "state_id": 36,
+        "name": "KARASAWA"
+    },
+    {
+        "id": 748,
+        "state_id": 36,
+        "name": "MACHINA"
+    },
+    {
+        "id": 749,
+        "state_id": 36,
+        "name": "NANGERE"
+    },
+    {
+        "id": 750,
+        "state_id": 36,
+        "name": "NGURU"
+    },
+    {
+        "id": 751,
+        "state_id": 36,
+        "name": "POTISKUM"
+    },
+    {
+        "id": 752,
+        "state_id": 36,
+        "name": "TARMUWA"
+    },
+    {
+        "id": 753,
+        "state_id": 36,
+        "name": "YUNUSARI"
+    },
+    {
+        "id": 754,
+        "state_id": 36,
+        "name": "YUSUFARI"
+    },
+    {
+        "id": 755,
+        "state_id": 37,
+        "name": "ANKA"
+    },
+    {
+        "id": 756,
+        "state_id": 37,
+        "name": "BAKURA"
+    },
+    {
+        "id": 757,
+        "state_id": 37,
+        "name": "BIRNIN MAGAJI"
+    },
+    {
+        "id": 758,
+        "state_id": 37,
+        "name": "BUKKUYUM"
+    },
+    {
+        "id": 759,
+        "state_id": 37,
+        "name": "BUNGUDU"
+    },
+    {
+        "id": 760,
+        "state_id": 37,
+        "name": "GUMMI"
+    },
+    {
+        "id": 761,
+        "state_id": 37,
+        "name": "GUSAU"
+    },
+    {
+        "id": 762,
+        "state_id": 37,
+        "name": "KAURA NAMODA"
+    },
+    {
+        "id": 763,
+        "state_id": 37,
+        "name": "MARADUN"
+    },
+    {
+        "id": 764,
+        "state_id": 37,
+        "name": "MARU"
+    },
+    {
+        "id": 765,
+        "state_id": 37,
+        "name": "SHINKAFI"
+    },
+    {
+        "id": 766,
+        "state_id": 37,
+        "name": "TALATA MAFARA"
+    },
+    {
+        "id": 767,
+        "state_id": 37,
+        "name": "TSAFE"
+    },
+    {
+        "id": 768,
+        "state_id": 37,
+        "name": "ZURMI"
+    }
+]

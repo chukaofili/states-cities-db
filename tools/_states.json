@@ -1,0 +1,150 @@
+[
+		{
+        "id": 1,
+        "name": "ABIA"
+    },
+    {
+        "id": 2,
+        "name": "ADAMAWA"
+    },
+    {
+        "id": 3,
+        "name": "AKWA IBOM"
+    },
+    {
+        "id": 4,
+        "name": "ANAMBRA"
+    },
+    {
+        "id": 5,
+        "name": "BAUCHI"
+    },
+    {
+        "id": 6,
+        "name": "BAYELSA"
+    },
+    {
+        "id": 7,
+        "name": "BENUE"
+    },
+    {
+        "id": 8,
+        "name": "BORNO"
+    },
+    {
+        "id": 9,
+        "name": "CROSS RIVER"
+    },
+    {
+        "id": 10,
+        "name": "DELTA"
+    },
+    {
+        "id": 11,
+        "name": "EBONYI"
+    },
+    {
+        "id": 12,
+        "name": "EDO"
+    },
+    {
+        "id": 13,
+        "name": "EKITI"
+    },
+    {
+        "id": 14,
+        "name": "ENUGU"
+    },
+    {
+        "id": 15,
+        "name": "FCT"
+    },
+    {
+        "id": 16,
+        "name": "GOMBE"
+    },
+    {
+        "id": 17,
+        "name": "IMO"
+    },
+    {
+        "id": 18,
+        "name": "JIGAWA"
+    },
+    {
+        "id": 19,
+        "name": "KADUNA"
+    },
+    {
+        "id": 20,
+        "name": "KANO"
+    },
+    {
+        "id": 21,
+        "name": "KATSINA"
+    },
+    {
+        "id": 22,
+        "name": "KEBBI"
+    },
+    {
+        "id": 23,
+        "name": "KOGI"
+    },
+    {
+        "id": 24,
+        "name": "KWARA"
+    },
+    {
+        "id": 25,
+        "name": "LAGOS"
+    },
+    {
+        "id": 26,
+        "name": "NASARAWA"
+    },
+    {
+        "id": 27,
+        "name": "NIGER"
+    },
+    {
+        "id": 28,
+        "name": "OGUN"
+    },
+    {
+        "id": 29,
+        "name": "ONDO"
+    },
+    {
+        "id": 30,
+        "name": "OSUN"
+    },
+    {
+        "id": 31,
+        "name": "OYO"
+    },
+    {
+        "id": 32,
+        "name": "PLATEAU"
+    },
+    {
+        "id": 33,
+        "name": "RIVERS"
+    },
+    {
+        "id": 34,
+        "name": "SOKOTO"
+    },
+    {
+        "id": 35,
+        "name": "TARABA"
+    },
+    {
+        "id": 36,
+        "name": "YOBE"
+    },
+    {
+        "id": 37,
+        "name": "ZAMFARA"
+    }
+]
