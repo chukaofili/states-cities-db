@@ -1,0 +1,34 @@
+{
+  "name": "states-cities-db",
+  "version": "1.0.0",
+  "description": "States & cities library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "data": "data"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chukaofili/states-cities-db.git"
+  },
+  "keywords": [
+    "states",
+    "cities",
+    "db"
+  ],
+  "author": "Chuka Ofili",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chukaofili/states-cities-db/issues"
+  },
+  "homepage": "https://github.com/chukaofili/states-cities-db#readme",
+  "devDependencies": {
+    "world-countries": "^1.8.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
