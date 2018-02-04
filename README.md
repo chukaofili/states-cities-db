@@ -52,6 +52,10 @@ console.log(countries);
 ### Get states
 
 ```javascript
+// Get all states
+var states = sc.getStates(); 
+
+// OR
 // Get all states by passing the country slug.
 var states = sc.getStates('nigeria'); 
 
@@ -96,6 +100,10 @@ console.log(filteredStates);
 ### Get cities
 
 ```javascript
+// Get all cities
+var cities = sc.getCities(); 
+
+// OR
 // Get all cities by passing the state slug.
 var cities = sc.getCities('nigeria_lagos'); 
 
