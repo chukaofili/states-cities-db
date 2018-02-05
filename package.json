@@ -1,6 +1,6 @@
 {
   "name": "states-cities-db",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "States & cities library",
   "main": "index.js",
   "directories": {
