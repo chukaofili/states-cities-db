@@ -139,3 +139,39 @@ console.log(filteredCities);
     state: 'nigeria_lagos',} ]
 ```
 > Note: You can get the state slug from the getStates() method.
+
+### Get item by slug
+
+```javascript
+// Get by slug
+var country = sc.getBySlug('country', 'nigeria');
+var state = sc.getBySlug('state', 'nigeria_lagos');
+var city = sc.getBySlug('city', 'nigeria_lagos_apapa');
+
+//Sample responses
+console.log(country);
+
+{ name: 'Nigeria',
+  slug: 'nigeria',
+  iso: 'NGA',
+  prefix: '+234',
+  currency: 'NGN',
+  region: 'Africa',
+  subregion: 'Western Africa',
+  latlng: [ 10, 8 ] }
+
+console.log(state);
+
+{ name: 'Lagos',
+  slug: 'nigeria_lagos',
+  stateSlug: 'lagos',
+  country: 'nigeria' }
+
+console.log(city);
+
+{ name: 'Apapa',
+  slug: 'nigeria_lagos_apapa',
+  citySlug: 'apapa',
+  state: 'nigeria_lagos',
+  country: 'nigeria' }
+```
