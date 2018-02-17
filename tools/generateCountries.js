@@ -13,6 +13,7 @@ countries.forEach(function (country) {
       name: wcCountry.name.common,
       slug: _.kebabCase(wcCountry.name.common),
       iso: country.iso3,
+      iso2: country.iso,
       prefix: '+' + country.phonecode,
       currency: wcCountry.currency[0],
       region: wcCountry.region,
