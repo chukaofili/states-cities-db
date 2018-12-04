@@ -175,3 +175,8 @@ console.log(city);
   state: 'nigeria_lagos',
   country: 'nigeria' }
 ```
+
+## TODO
+* Add cities for other countries (Currently only Nigerian cities pupolated)
+
+PRs are welcome :)
