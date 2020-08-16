@@ -1,13 +1,11 @@
-'use strict';
-
-var getCountries = require('./lib/getCountries');
-var getStates = require('./lib/getStates');
-var getCities = require('./lib/getCities');
-var getBySlug = require('./lib/getBySlug');
+const getCountries = require('./lib/getCountries');
+const getStates = require('./lib/getStates');
+const getCities = require('./lib/getCities');
+const getBySlug = require('./lib/getBySlug');
 
 module.exports = {
-  getCountries: getCountries,
-  getStates: getStates,
-  getCities: getCities,
-  getBySlug: getBySlug,
+  getCountries,
+  getStates,
+  getCities,
+  getBySlug,
 };
